@@ -1,0 +1,10 @@
+===================
+ MLTask CHANGELOG
+===================
+
+7/1/2025 tanishy7777
+
+    0.1.0
+    - Added `models.py`which implements the Groq API requests and allows user to query the LLM.
+    - Added `game24.py` which implements the game 24 task Class, which uses the prompts from
+      `prompts.py`. 
